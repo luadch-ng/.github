@@ -1,5 +1,13 @@
 # luadch-ng
 
+[![License](https://img.shields.io/badge/license-GPLv3.0-blueviolet.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20ARM-orange.svg)](docs/BUILDING.md)
+[![Lua](https://img.shields.io/badge/lua-5.4-blue.svg)](https://www.lua.org/)
+[![Smoke](https://github.com/luadch-ng/luadch/actions/workflows/smoke.yml/badge.svg)](https://github.com/luadch-ng/luadch/actions/workflows/smoke.yml)
+[![Docker](https://github.com/luadch-ng/luadch/actions/workflows/docker.yml/badge.svg)](https://github.com/luadch-ng/luadch/actions/workflows/docker.yml)
+[![Release](https://img.shields.io/github/v/release/luadch-ng/luadch.svg)](https://github.com/luadch-ng/luadch/releases/latest)
+[![GHCR](https://img.shields.io/badge/ghcr.io-amd64%20%7C%20arm64-blue?logo=docker)](https://github.com/luadch-ng/luadch/pkgs/container/luadch)
+
 Modernised fork of [luadch](https://github.com/luadch/luadch) by
 **blastbeat** and **pulsar** - a DC++ ADC hub server in Lua.
 
@@ -11,5 +19,6 @@ In the future, backward compatibility with the v4 branch may no longer be guaran
 - **Hub server** &middot; [`luadch-ng/luadch`](https://github.com/luadch-ng/luadch)
 - **Website** &middot; <https://luadch-ng.github.io/>
 - **Latest release** &middot; <https://github.com/luadch-ng/luadch/releases/latest>
+- **Latest Docker Image** &middot; <https://github.com/luadch-ng/luadch/pkgs/container/luadch>
 
 GPLv3.0
