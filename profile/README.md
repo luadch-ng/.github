@@ -24,8 +24,8 @@ In the future, backward compatibility with the v4 branch may no longer be guaran
 ### Project Hub
 
 Why don't you check out our project hub?
-
+```
 IPv4: 'adcs://hub.eth0.cx:5001/?kp=SHA256/RLDEY2QBXXO27D33UHYK3BAFVCW6MNQINNYN4FFAP2RL2MNFLM6A'
 IPv6: 'adcs://hub.eth0.cx:5003/?kp=SHA256/RLDEY2QBXXO27D33UHYK3BAFVCW6MNQINNYN4FFAP2RL2MNFLM6A'
-
+```
 GPLv3.0
