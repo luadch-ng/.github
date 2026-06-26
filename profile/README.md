@@ -8,20 +8,20 @@
 [![Release](https://img.shields.io/github/v/release/luadch-ng/luadch.svg)](https://github.com/luadch-ng/luadch/releases/latest)
 [![GHCR](https://img.shields.io/badge/ghcr.io-amd64%20%7C%20arm64-blue?logo=docker)](https://github.com/luadch-ng/luadch/pkgs/container/luadch)
 
-Modernised fork of [luadch](https://github.com/luadch/luadch) by
-**blastbeat** and **pulsar** - a DC++ ADC hub server in Lua.
-
-Lifted off Lua 5.1 (EOL 2012) to Lua 5.4, rebuilt under CMake, security-audited
-and fixes many reported issues from upstream, released as v3.x.x. The v3 Branch is backwards compatible.
-
-In the future, backward compatibility with the v4 branch may no longer be guaranteed. This branch will include new features.
+Modernised fork of [luadch](https://github.com/luadch/luadch) by **blastbeat** and **pulsar** - a DC++ ADC hub server in Lua.
 
 - **Hub server** &middot; [`luadch-ng/luadch`](https://github.com/luadch-ng/luadch)
 - **Website** &middot; <https://luadch-ng.github.io/>
 - **Latest release** &middot; <https://github.com/luadch-ng/luadch/releases/latest>
 - **Latest Docker Image** &middot; <https://github.com/luadch-ng/luadch/pkgs/container/luadch>
 
-### Project Hub
+### DCVault.net - Direct Connect Community Wiki and Forum
+
+[![DCVault.net Banner](https://forum.dcvault.net/uploads/default/original/1X/c156f38e1aa3e4f339d8f03050169edea5fec237.png)](https://dcvault.net)
+
+Check out our project, DCVault.net. It's a hub for newcomers, DC users, hub owners, and developers who want to use, improve, and further develop the Direct Connect network. Let's connect!
+
+### Luadch-ng Project Hub
 
 Why don't you check out our project hub?
 ```
